@@ -1,7 +1,7 @@
 # 💫 About Me:
 Hi, I’m Abdul Rehman — a passionate full-stack developer focused on building scalable, real-world solutions.<br><br>I specialize in developing modern web and mobile applications using technologies like MERN stack and React Native. My work revolves around creating systems that are not just functional, but efficient, user-friendly, and ready for production — from courier and logistics platforms to rental management systems and custom business solutions.<br><br>I enjoy solving complex problems, designing clean architectures, and turning ideas into fully working products. Whether it’s building APIs, integrating real-time features like sockets, or managing complete system flows from admin dashboards to mobile apps — I like to take ownership of the entire development process.<br><br>I’m constantly exploring new technologies and improving my skills to deliver better, faster, and smarter solutions.<br><br>If you're looking for someone who can transform your idea into a scalable product, you're in the right place.
 
-
+xyz
 
 
 
